@@ -1,13 +1,9 @@
 <?xml version="1.0"?>
+ 
 <configuration>
     <system.webServer>
         <staticContent>
             <mimeMap fileExtension=".json" mimeType="application/json" />
-        </staticContent>
-        <httpProtocol>
-            <customHeaders>
-                <add name="Access-Control-Allow-Origin" value="*" />
-            </customHeaders>
-        </httpProtocol>
+     </staticContent>
     </system.webServer>
 </configuration>
