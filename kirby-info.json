@@ -32,9 +32,6 @@
         "name":"Kine",
         "gender":"male"
     }],
-    "gameAppearances":  [{
-        "game":"EarthBound"
-    }],
     "enemies":   [{
         "name":"King Dedede"
     },{
