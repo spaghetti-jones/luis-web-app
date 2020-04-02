@@ -1,0 +1,5 @@
+[
+   { "Name":"Luis Barrera", "Email":"luisbarrera@lewisu.edu", "ContactURL":"https://luis-web-app.azurewebsites.net/self-introduction.json" },  
+   { "Name":"Ness", "Email":"starmen19xx@gmail.com", "ContactURL":"https://luis-web-app.azurewebsites.net/ness-info.json" },  
+   { "Name":"Kirby", "Email":"xXp0y0Xx@gmail.com", "ContactURL":"https://luis-web-app.azurewebsites.net/kirby-info.json" }
+]
