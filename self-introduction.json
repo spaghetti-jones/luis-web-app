@@ -1,7 +1,14 @@
 {
-    "name":"Luis Barrera",
-    "age":"21",
-    "gender":"male",
+    "firstName": "Luis",
+    "lastName": "Barrera",
+    "preferredName": "Luis",
+    "age": "21",
+    "gender": "male",
+    "email": "luisbarrera@lewisu.edu",
+    "city": "Romeoville",
+    "state": "IL",
+    "favoriteHobby": "Drawing",
+    "seatLocation": "53",
     "pets": [{
         "pet":"dog",
         "petName":"Pumpkin",

@@ -1,0 +1,33 @@
+{
+    "firstName": "Ness",
+    "preferredName": "Ness",
+    "age": "13",
+    "gender": "male",
+    "email": "starmen19xx@gmail.com",
+    "town": "Onett",
+    "country": "Eagleland",
+    "favoriteHobby": "Baseball",
+    "seatLocation": "",
+    "relatives": [{
+        "relative":"younger sister",
+        "name":"Tracy"
+    },  {
+        "relative":"mother",
+        "name":"Mother"
+    },  {
+        "relative":"father",
+        "name":"Father"
+    }],
+    "gameAppearances":  [{
+        "game":"EarthBound"
+    }],
+    "bosses":   [{
+        "name":"Giygas"
+    },{
+        "name":"Pokey Minch"
+    },{
+        "name":"Starmen"
+    },{
+        "name":"Evil Mani Mani"
+    }]
+}
