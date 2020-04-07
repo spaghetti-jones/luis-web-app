@@ -1,44 +1,12 @@
 {
     "firstName": "Kirby",
+    "lastName": "Poyo",
     "preferredName": "Kirby",
+    "age": "200",
     "gender": "male",
     "email": "xXp0y0Xx@gmail.com",
-    "country": "Dream Land",
-    "homePlanet": "Popstar",
+    "city": "Dream Land",
+    "state": "Popstar",
     "favoriteHobby": "Eating",
-    "seatLocation": "",
-    "animalFriends": [{
-        "species":"Hamster",
-        "name":"Rick",
-        "gender":"male"
-    },  {
-        "species":"Owl",
-        "name":"Coo",
-        "gender":"male"
-    },  {
-        "species":"Bird",
-        "name":"Pitch",
-        "gender":"male"
-    }, {
-        "species":"Octopus",
-        "name":"ChuChu",
-        "gender":"female"
-    }, {
-        "species":"Cat",
-        "name":"Nago",
-        "gender":"male"
-    }, {
-        "species":"Sunfish",
-        "name":"Kine",
-        "gender":"male"
-    }],
-    "enemies":   [{
-        "name":"King Dedede"
-    },{
-        "name":"Dark Matter"
-    },{
-        "name":"Escargoon"
-    },{
-        "name":"Zero Two"
-    }]
+    "seatLocation": ""
 }

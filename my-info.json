@@ -8,5 +8,30 @@
     "city": "Romeoville",
     "state": "IL",
     "favoriteHobby": "Drawing",
-    "seatLocation": "53"
+    "seatLocation": "53",
+    "pets": [{
+        "pet":"dog",
+        "petName":"Pumpkin",
+        "petBreed":"Boston Terrior"
+    },  {
+        "pet":"dog",
+        "petName":"Lucky",
+        "petBreed":"Chihuahua"
+    }],
+    "hobbies":  [{
+        "activity":"drawing"
+    },  {
+        "activity":"video games"
+    },  {
+        "activity":"fitness"
+    },  {
+        "activity":"longboarding"
+    }],
+    "favoriteBandsOrArtists":   [{
+        "bandOrArtist":"100 Gecs",
+        "favoriteAlbum":"1000 Gecs"
+    },{
+        "bandOrArtist":"Caroline Polachek",
+        "favoriteAlbum":"Pang"
+    }]
 }
